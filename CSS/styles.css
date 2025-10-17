@@ -2,8 +2,7 @@ body {
   margin: 0;
   text-align: center;
   font-family: 'Merriweather',fantasy;
-
-
+  font-family: 'Merriweather', fantasy;
 }
 
 h1 {
@@ -13,12 +12,12 @@ h1 {
 }
 
 h2 {
-  font-family: 'montserrat', sans-serif;
-  font-size:
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5em;
  }
 
 h3 {
-  font-family: 'montserrat', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
 div {
