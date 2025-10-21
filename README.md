@@ -2,4 +2,4 @@
 
 
 
-watch the development of a wavy site
+watch the development of my cool personal website
